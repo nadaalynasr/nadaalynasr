@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&section=header&text=Hi!%20I%27m%20Nadood&fontSize=&animation=fadeIn&color=gradient&customColorList=0&fontColor=#de3163">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=150&section=header&text=Hi!%20I%27m%20Nadood&fontSize=&animation=fadeIn&color=gradient&customColorList=0&fontColor=black">
 
 <div align='center'>
     <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"> </a> <a href="https://nadooda.com"><img src="https://img.shields.io/badge/Nadooda.com-%23D4D4D4.svg?style=for-the-badge&amp;color=pink"> </a> <a href="https://nadooda.com"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&amp;logo=substack&amp;logoColor=FF6719"> </a>
