@@ -1,6 +1,8 @@
 <p>
 <img src="https://capsule-render.vercel.app/api?type=blur&amp;c&amp;height=500&amp;section=header&amp;text=Hi! I'm Nadood&amp;fontSize=90&amp;desc=Nada Aly-Nasr&amp;animation=fadeIn&amp;color=gradient&amp;customColorList=0">
 </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 <div align='center'>
     <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"> </a> <a href="https://nadooda.com"><img src="https://img.shields.io/badge/Nadooda.com-%23D4D4D4.svg?style=for-the-badge&amp;color=pink"> </a> <a href="https://nadooda.com"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&amp;logo=substack&amp;logoColor=FF6719"> </a>
 </div>
