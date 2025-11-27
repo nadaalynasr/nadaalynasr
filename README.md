@@ -13,7 +13,7 @@
 ## Song of the Week
 
 
-<table>
+<table bgcolor="#8d8dc4"  style="border-radius:18px; padding:20px">
   <tr>
     <td>
       <img src="https://images.genius.com/b37a2dda27368db881e5d959ba8900de.1000x1000x1.png" width="150" style="border-radius:10px;" />
@@ -21,10 +21,7 @@
     <td style="vertical-align:middle;">
       <strong style="font-size:26px;">Sushi</strong><br>
       <span style="color:#bdbdbd;font-size:18px;">FKA twigs</span><br>
-      <span style="color:#888;font-size:15px;">Eusexua AFTERGLOW • 2025</span>
+      <span style="color:#888;font-size:15px;">Eusexua AFTERGLOW</span>
     </td>
   </tr>
 </table>
-
-
-
