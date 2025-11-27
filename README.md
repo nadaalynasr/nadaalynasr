@@ -13,25 +13,18 @@
 ## Song of the Week
 
 
-<div style="display:flex;align-items:center;gap:20px;padding:20px;border-radius:18px;background:#111;border:1px solid #333;width:100%;max-width:900px;">
-  
-  <img src="https://images.genius.com/b37a2dda27368db881e5d959ba8900de.1000x1000x1.png"
-       style="width:160px;height:160px;border-radius:10px;object-fit:cover;">
-
-  <div style="display:flex;flex-direction:column;">
-      <span style="font-size:26px;font-weight:700;color:white;">
-        Sushi
-      </span>
-      <span style="font-size:18px;font-weight:500;color:#bdbdbd;">
-        FKA twigs
-      </span>
-      <span style="font-size:15px;color:#888;margin-top:8px;">
-        Eusexua AFTERGLOW • 2025
-      </span>
-  </div>
-
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://images.genius.com/b37a2dda27368db881e5d959ba8900de.1000x1000x1.png" width="150" style="border-radius:10px;" />
+    </td>
+    <td style="vertical-align:middle;">
+      <strong style="font-size:26px;">Sushi</strong><br>
+      <span style="color:#bdbdbd;font-size:18px;">FKA twigs</span><br>
+      <span style="color:#888;font-size:15px;">Eusexua AFTERGLOW • 2025</span>
+    </td>
+  </tr>
+</table>
 
 
 
