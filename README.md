@@ -1,5 +1,5 @@
 <p>
-<img src="https://capsule-render.vercel.app/api?type=blur&amp;c&amp;height=500&amp;section=header&amp;text=Hi! I'm Nadood&amp;fontSize=90&amp;desc=Nada Aly-Nasr&amp;animation=fadeIn&amp;color=gradient&amp;customColorList=0">
+<img src="https://capsule-render.vercel.app/api?type=blur&;c&height=500&section=header&text=Hi! I'm Nadood&fontSize=90&desc=Nada Aly-Nasr&animation=fadeIn&color=gradient&customColorList=0">
 </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
